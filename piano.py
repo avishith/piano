@@ -1,6 +1,5 @@
 from tkinter import *
-import tkinter as tk
-import time,pygame,datetime
+import time,pygame
 pygame.init()
 root=Tk()
 
